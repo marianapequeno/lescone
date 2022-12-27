@@ -1,8 +1,8 @@
 # Le Scone
+![Logo Le Scone](img/lescone.png)
 
 ## Descrição: 
-O que é... - Funcionalidades desenvolvidas com [SASS / SCSS](https://sass-lang.com/): 
-* [] ... 
+Estilos desenvolvidos com [SASS / SCSS](https://sass-lang.com/)
 
 ## Tecnologias Utilizadas:
 <div>

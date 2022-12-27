@@ -8,7 +8,7 @@ $font-1: 'PT Mono', monospace;
 $font-2: 'Aref Ruqaa', serif;
 
 @function rem($pixel, $context: 16) {
-  @return $pixel / $context + "rem";
+  @return $pixel / $context + rem;
 }
 
 @mixin type-1($size) {
